@@ -1,5 +1,8 @@
 # microzig-driver-framework
 
+> **IMPORTANT NOTICE:**
+> This repository is deprecated and archived. The code is now merged into the MicroZig monorepo!
+
 A collection of device drivers for the use with MicroZig.
 
 > THIS PROJECT IS NOT READY YET!  
